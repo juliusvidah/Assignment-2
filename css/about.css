@@ -1,18 +1,10 @@
-.link2 {
-    font-size: 20px;
-    color: whitesmoke;
-    padding: 15px;
-    text-decoration: none;
-}
 
 .inline-elements {
     background-color: black;
     padding: 15px;
+    text-decoration: none;
 }
 
-.link2:hover {
-    text-decoration: underline;
-}
 
 .para {
     padding: 15px;
